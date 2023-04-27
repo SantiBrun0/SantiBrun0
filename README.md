@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santiago Bruno
-- 👀 I’m interested in: IT World
-- 🌱 I’m currently learning REACT & JAVA
+- 👀 I’m interested in: learn something new everyday
+- 🌱 I’m full stack developer (React Js - Css - Sass - Java - Spring - Sql)
 - 💞️ I'm looking to collaborate with anybody who need it
 - 📫 How to reach me: santibrunovm@gmail.com
 
